@@ -12,6 +12,7 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
+<img src="out_test_images/solidWhiteCurve.jpg" width="480" alt="SolidWhiteCurve" />
 
 [//]: # (Image References)
 

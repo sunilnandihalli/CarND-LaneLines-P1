@@ -12,21 +12,8 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-<img src="out_test_images/solidWhiteCurve.jpg" width="480" alt="SolidWhiteCurve" />
-<img src="out_test_images/solidWhiteRight.jpg" width="480" alt="SolidWhiteRight" />
-<img src="out_test_images/solidYellowCurve.jpg" width="480" alt="SolidYellowCurve" />
-<img src="out_test_images/solidYellowCurve2.jpg" width="480" alt="SolidYellowCurve2" />
-<img src="out_test_images/solidYellowLeft.jpg" width="480" alt="SolidYellowLeft" />
-<img src="out_test_images/whiteCarLaneSwitch.jpg" width="480" alt="whiteCarLaneSwitch" />
 
-[//]: # (Image References)
 
-[image1]: ./out_test_images/solidWhiteCurve.jpg "solidWhiteCurve"
-[image2]: ./out_test_images/solidWhiteRight.jpg "solidWhiteRight"
-[image3]: ./out_test_images/solidYellowCurve.jpg "solidYellowCurve"
-[image4]: ./out_test_images/solidYellowCurve2.jpg "solidYellowCurve2"
-[image5]: ./out_test_images/solidYellowLeft.jpg "solidYellowLeft"
-[image6]: ./out_test_images/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
 ---
 
 ### Reflection
@@ -49,17 +36,12 @@ d. sort all the points in each of the group based on increasing x-coordinate and
 Among the 4 approaches, the one where I extended the longest line seemed to work the best. I have left the other pieces of trial code in the 
 submission.
 
-
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
-![alt text][image2]
-![alt text][image3]
-![alt text][image4]
-![alt text][image5]
-![alt text][image6]
-
-
+<img src="out_test_images/solidWhiteCurve.jpg" width="480" alt="SolidWhiteCurve" />
+<img src="out_test_images/solidWhiteRight.jpg" width="480" alt="SolidWhiteRight" />
+<img src="out_test_images/solidYellowCurve.jpg" width="480" alt="SolidYellowCurve" />
+<img src="out_test_images/solidYellowCurve2.jpg" width="480" alt="SolidYellowCurve2" />
+<img src="out_test_images/solidYellowLeft.jpg" width="480" alt="SolidYellowLeft" />
+<img src="out_test_images/whiteCarLaneSwitch.jpg" width="480" alt="whiteCarLaneSwitch" />
 
 ### 2. Identify potential shortcomings with your current pipeline
 

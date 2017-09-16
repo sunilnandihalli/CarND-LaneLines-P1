@@ -13,6 +13,11 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 <img src="out_test_images/solidWhiteCurve.jpg" width="480" alt="SolidWhiteCurve" />
+<img src="out_test_images/solidWhiteRight.jpg" width="480" alt="SolidWhiteRight" />
+<img src="out_test_images/solidYellowCurve.jpg" width="480" alt="SolidYellowCurve" />
+<img src="out_test_images/solidYellowCurve2.jpg" width="480" alt="SolidYellowCurve2" />
+<img src="out_test_images/solidYellowLeft.jpg" width="480" alt="SolidYellowLeft" />
+<img src="out_test_images/whiteCarLaneSwitch.jpg" width="480" alt="whiteCarLaneSwitch" />
 
 [//]: # (Image References)
 

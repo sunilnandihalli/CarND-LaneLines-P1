@@ -51,6 +51,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 ![alt text][image3]
 ![alt text][image4]
 ![alt text][image5]
+![alt text][image6]
 
 
 

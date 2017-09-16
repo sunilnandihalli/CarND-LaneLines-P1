@@ -46,13 +46,11 @@ submission.
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
+One potential shortcoming would be what would happen when the camera is in a different location. The current algorithm is extermely sensitive
+to the mount-point of the camera. There are no testcases for night driving. This can easily trip us. Our algorithm is also hard coded in terms
+of the resolution of the image. This can be troublesome.
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+We can make the mask-region independent of the resolution of the image. We should be able to get a better estimate of the lane-lines by means
+of a better interpolation strategy. Simply extending the longest line is a gross oversimplification.
